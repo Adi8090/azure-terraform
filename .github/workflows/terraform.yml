@@ -42,4 +42,3 @@ jobs:
       # ✅ Auto Apply on push
       - name: Terraform Apply
         run: terraform apply -auto-approve
-`
