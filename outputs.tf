@@ -18,3 +18,6 @@ output "vm_names" {
   value = module.vm.vm_names
 }
 
+output "function_app_name" {
+  value = module.function_app.function_app_name
+}
